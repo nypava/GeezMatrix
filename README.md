@@ -1,11 +1,9 @@
 # **Ge'ez matrix**
-![image](image/banner.jpg) 
-### <div align = "center"> **Ge'ez Digital Rain in Python in (Pygame)** </div>
+![image](image/banner.jpg)
+### <div align = "center"> **Ge'ez Digital Rain in Python (Pygame)** </div>
 #
 ## **Installation** 
 ```
-apt install python
-apt install git 
 pip install pygame
 ```
 #
