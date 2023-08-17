@@ -10,6 +10,7 @@ pip install pygame
 ## **Usage**
 ```
 git clone https://github.com/NYOFFICIALGH/geezmatrix
+pip install pygame
 cd geezmatrix
-python main.py
+python3 main.py
 ``` 
